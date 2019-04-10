@@ -4,7 +4,7 @@
 
 Solving the Traveling Salesman Problem using google OR-Tools.
 
-## Feature
+## Features
 
 * Let you visit all the attractions you plan to go in the fastest way.
 

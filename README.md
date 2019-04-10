@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+* [中文教程](https://luochang.ink/2019/04/09/%E7%94%A8Jupyter-notebook%E8%A7%84%E5%88%92%E6%97%85%E8%A1%8C%E8%B7%AF%E7%BA%BF/)
+
 Solving the Traveling Salesman Problem using google OR-Tools.
 
 ## Feature
@@ -21,7 +23,7 @@ Solving the Traveling Salesman Problem using google OR-Tools.
 ## usage
 
 * Make sure you have already installed these packages: googleplaces, googlemaps, gmaps, ortools.
-* Get Google API key from this website: [https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key](https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key).
+* Get Google API key from here: [https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key](https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key).
 * Change the variable 'places' and 'location' then run all the cells.
 * PS: If the fig is not showed after running all cells, try to restart the Jupyter notebook.
 

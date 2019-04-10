@@ -26,4 +26,4 @@ Solving the Traveling Salesman Problem using google OR-Tools.
 * If the fig is not showed after running all cells, try to restart the Jupyter notebook
 
 ## License
-MIT Licese
+MIT License

@@ -1,4 +1,6 @@
-# Google-Map-TSP-Solver  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Google-Map-TSP-Solver 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Solving the Traveling Salesman Problem using google OR-Tools.
 

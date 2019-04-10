@@ -6,7 +6,7 @@ Solving the Traveling Salesman Problem using google OR-Tools.
 
 ## Features
 
-* Let you visit all the attractions you plan to go in the fastest way.
+* Spend less time to visit more places of interest.
 
 * Four modes to choose including walking, driving, bicycling and transit.
 

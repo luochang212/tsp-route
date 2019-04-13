@@ -10,7 +10,7 @@ Solving the Traveling Salesman Problem using google OR-Tools.
 
 * Four modes to choose including walking, driving, bicycling and transit.
 
-* Good visualization powered by gmaps, provide two different maps.
+* Good visualization powered by gmaps, provide two different kinds of maps.
 
 ![route showed on the map](googlemap.JPG)
 
@@ -20,9 +20,18 @@ Solving the Traveling Salesman Problem using google OR-Tools.
 
 ## usage
 
-* Make sure you have already installed these packages: googleplaces, googlemaps, gmaps, ortools.
+* <details>
+  <summary>Make sure you have already installed these packages: googleplaces, googlemaps, gmaps, ortools.</summary>
+  * python-google-places 1.4.1:  `pip install python-google-places`
+  * googlemaps 3.0.2: `pip install googlemaps`
+  * gmaps 0.8.4: `pip install gmaps`
+  * OR-Tools v7.0 (2019-03): `python -m pip install --upgrade --user 
+  </details>
+
 * Get Google API key from here: [https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key](https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key).
+
 * Change the variable 'places' and 'location' then run all the cells.
+
 * PS: If the fig is not showed after running all cells, try to restart the Jupyter notebook.
 
 ## Chinese

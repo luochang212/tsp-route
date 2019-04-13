@@ -4,7 +4,7 @@
 
 Solving the Traveling Salesman Problem using google OR-Tools.
 
-## Features
+## Feature
 
 * Spend less time to visit more places of interest.
 
@@ -28,7 +28,7 @@ Solving the Traveling Salesman Problem using google OR-Tools.
 
 * PS: If the fig is not showed after running all cells, try to restart the Jupyter notebook.
 
-## Environment
+## Package
 
 <details>
 <summary>python-google-places 1.4.1</summary>

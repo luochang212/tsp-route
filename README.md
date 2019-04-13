@@ -22,10 +22,10 @@ Solving the Traveling Salesman Problem using google OR-Tools.
 
 * <details>
   <summary>Make sure you have already installed these packages: googleplaces, googlemaps, gmaps, ortools.</summary>
-  * python-google-places 1.4.1:  `pip install python-google-places`
-  * googlemaps 3.0.2: `pip install googlemaps`
-  * gmaps 0.8.4: `pip install gmaps`
-  * OR-Tools v7.0 (2019-03): `python -m pip install --upgrade --user 
+  * python-google-places 1.4.1: [`pip install python-google-places`](#pip install python-google-places)
+  * googlemaps 3.0.2: [`pip install googlemaps`](#pip install googlemaps)
+  * gmaps 0.8.4: [`pip install gmaps`](#pip install gmaps)
+  * OR-Tools v7.0 (2019-03): [`python -m pip install --upgrade --user`](#python -m pip install --upgrade --user)
   </details>
 
 * Get Google API key from here: [https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key](https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key).

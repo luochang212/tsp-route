@@ -20,35 +20,51 @@ Solving the Traveling Salesman Problem using google OR-Tools.
 
 ## usage
 
-<details>
-<summary>Examples</summary>
-
-```js
-const Pall = collectInto(Promise.all.bind(Promise));
-let p1 = Promise.resolve(1);
-let p2 = Promise.resolve(2);
-let p3 = new Promise(resolve => setTimeout(resolve, 2000, 3));
-Pall(p1, p2, p3).then(console.log); // [1, 2, 3] (after about 2 seconds)
-```
-
-</details>
-
-
-<details>
-<summary>Make sure you have already installed these packages: googleplaces, googlemaps, gmaps, ortools.</summary>
-
-* python-google-places 1.4.1: [`pip install python-google-places`](#pip install python-google-places)
-* googlemaps 3.0.2: [`pip install googlemaps`](#pip install googlemaps)
-* gmaps 0.8.4: [`pip install gmaps`](#pip install gmaps)
-* OR-Tools v7.0 (2019-03): [`python -m pip install --upgrade --user`](#python -m pip install --upgrade --user)
-
-</details>
+* Make sure you have already installed these packages: googleplaces, googlemaps, gmaps, ortools.
 
 * Get Google API key from here: [https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key](https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key).
 
 * Change the variable 'places' and 'location' then run all the cells.
 
 * PS: If the fig is not showed after running all cells, try to restart the Jupyter notebook.
+
+## Environment
+
+<details>
+<summary>python-google-places 1.4.1</summary>
+
+```
+pip install python-google-places
+```
+
+</details>
+
+<details>
+<summary>googlemaps 3.0.2</summary>
+
+```powershell
+pip install googlemaps
+```
+
+</details>
+
+<details>
+<summary>gmaps 0.8.4</summary>
+
+```powershell
+pip install gmaps
+```
+
+</details>
+
+<details>
+<summary>OR-Tools v7.0 (2019-03)</summary>
+
+```powershell
+python -m pip install --upgrade --user
+```
+
+</details>
 
 ## Chinese
 

@@ -1,16 +1,16 @@
-# TSP-Tour-Route
+# TSP-Travel-Route
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Solving the Traveling Salesman Problem using google OR-Tools.
 
-## Feature
+## Features
 
-* Let you visit all the attractions you plan to go in the fastest way
+* Spend less time to visit more places of interest.
 
-* Four modes to choose, includes walking, driving, bicycling and transit
+* Four modes to choose including walking, driving, bicycling and transit.
 
-* Good visualization powered by gmaps, provide two different maps
+* Good visualization powered by gmaps, provide two different maps.
 
 ![route showed on the map](googlemap.JPG)
 
@@ -20,10 +20,14 @@ Solving the Traveling Salesman Problem using google OR-Tools.
 
 ## usage
 
-* Make sure you have already installed these packages: googleplaces, googlemaps, gmaps, ortools
-* Get Google API key from this website: [https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key](https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key)
-* Change the variable 'places' and 'location' then run all the cells
-* If the fig is not showed after runing all cells, try to restart the Jupyter notebook
+* Make sure you have already installed these packages: googleplaces, googlemaps, gmaps, ortools.
+* Get Google API key from here: [https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key](https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key).
+* Change the variable 'places' and 'location' then run all the cells.
+* PS: If the fig is not showed after running all cells, try to restart the Jupyter notebook.
+
+## Chinese
+
+* [中文教程](https://luochang.ink/2019/04/09/%E7%94%A8Jupyter-notebook%E8%A7%84%E5%88%92%E6%97%85%E8%A1%8C%E8%B7%AF%E7%BA%BF/)
 
 ## License
-MIT Licese
+MIT License

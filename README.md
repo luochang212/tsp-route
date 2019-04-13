@@ -24,7 +24,7 @@ Solving the Traveling Salesman Problem using google OR-Tools.
 
 * Get Google API key from here: [https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key](https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key).
 
-* Change the variable 'places' and 'location' then run all the cells.
+* Change the variables 'places' and 'location' then run all the cells.
 
 * PS: If the fig is not showed after running all cells, try to restart the Jupyter notebook.
 

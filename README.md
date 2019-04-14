@@ -4,6 +4,8 @@
 
 Solving the Traveling Salesman Problem using google OR-Tools.
 
+Open in google colab [[Click here](https://colab.research.google.com/drive/1C9i1QoYKo9Rce2jowVipd8CYbsTWMKHG)]
+
 ## Feature
 
 * Spend less time to visit more places of interest.

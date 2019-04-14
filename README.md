@@ -36,6 +36,10 @@ Solving the Traveling Salesman Problem using google OR-Tools.
 ```
 pip install python-google-places
 ```
+or
+```
+pip install python-google-places==1.4.1
+```
 
 </details>
 

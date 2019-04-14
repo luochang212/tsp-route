@@ -34,10 +34,6 @@ Solving the Traveling Salesman Problem using google OR-Tools.
 <summary>python-google-places 1.4.1</summary>
 
 ```
-pip install python-google-places
-```
-or
-```
 pip install python-google-places==1.4.1
 ```
 
@@ -47,7 +43,7 @@ pip install python-google-places==1.4.1
 <summary>googlemaps 3.0.2</summary>
 
 ```powershell
-pip install googlemaps
+pip install googlemaps==3.0.2
 ```
 
 </details>
@@ -56,7 +52,7 @@ pip install googlemaps
 <summary>gmaps 0.8.4</summary>
 
 ```powershell
-pip install gmaps
+pip install gmaps==0.8.4
 ```
 
 </details>

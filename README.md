@@ -4,7 +4,7 @@
 
 Solving the Traveling Salesman Problem using google OR-Tools.
 
-Open in google colab [[Click here](https://colab.research.google.com/drive/1C9i1QoYKo9Rce2jowVipd8CYbsTWMKHG)]
+Open in google colab [[Click here](https://drive.google.com/file/d/1C9i1QoYKo9Rce2jowVipd8CYbsTWMKHG/view?usp=sharing)]
 
 ## Feature
 

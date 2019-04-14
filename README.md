@@ -61,7 +61,7 @@ pip install gmaps==0.8.4
 <summary>OR-Tools v7.0 (2019-03)</summary>
 
 ```powershell
-python -m pip install --upgrade --user
+python -m pip install --upgrade --user ortools
 ```
 
 </details>

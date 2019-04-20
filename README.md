@@ -1,4 +1,4 @@
-# TSP-Travel-Route
+# tsp_route
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -20,7 +20,7 @@ Open in google colab [[Click here](https://drive.google.com/file/d/1C9i1QoYKo9Rc
 
 "The **travelling salesman problem** (**TSP**) asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?" It is an [NP-hard](https://en.wikipedia.org/wiki/NP-hardness)problem in [combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization)." (**more details on** [**Wikipedia**](https://en.wikipedia.org/wiki/Travelling_salesman_problem))
 
-## usage
+## Usage
 
 * Make sure you have already installed these packages: googleplaces, googlemaps, gmaps, ortools.
 
@@ -68,7 +68,7 @@ python -m pip install --upgrade --user ortools
 
 </details>
 
-## Chinese
+## Chinese info
 
 * [中文教程](https://luochang.ink/2019/04/09/%E7%94%A8Jupyter-notebook%E8%A7%84%E5%88%92%E6%97%85%E8%A1%8C%E8%B7%AF%E7%BA%BF/)
 

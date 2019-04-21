@@ -30,7 +30,7 @@ Open in google colab [[Click here](https://drive.google.com/file/d/1C9i1QoYKo9Rc
 
 * PS: If the fig is not showed after running all cells, try to restart the Jupyter notebook.
 
-## Package
+## Requirement
 
 <details>
 <summary>python-google-places 1.4.1</summary>
@@ -70,7 +70,7 @@ python -m pip install --upgrade --user ortools
 
 ## Chinese info
 
-* [中文教程](https://luochang.ink/2019/04/09/%E7%94%A8Jupyter-notebook%E8%A7%84%E5%88%92%E6%97%85%E8%A1%8C%E8%B7%AF%E7%BA%BF/)
+* [中文介绍](https://luochang.ink/2019/04/09/%E7%94%A8Jupyter-notebook%E8%A7%84%E5%88%92%E6%97%85%E8%A1%8C%E8%B7%AF%E7%BA%BF/)
 
 ## License
 MIT License

@@ -2,7 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Solving the Traveling Salesman Problem using google OR-Tools.
+Spend less time to visit more places of interest. 
+
+## Colab example
 
 Open in google colab [[Click here](https://drive.google.com/file/d/1C9i1QoYKo9Rce2jowVipd8CYbsTWMKHG/view?usp=sharing)]
 

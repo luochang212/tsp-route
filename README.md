@@ -70,7 +70,7 @@ python -m pip install --upgrade --user ortools
 
 ## Chinese info
 
-* [中文介绍](https://luochang.ink/2019/04/09/%E7%94%A8Jupyter-notebook%E8%A7%84%E5%88%92%E6%97%85%E8%A1%8C%E8%B7%AF%E7%BA%BF/)
+* [中文介绍](https://www.luochang.ink/posts/tsp_route/)
 
 ## License
 MIT License

@@ -1,0 +1,4 @@
+python-google-places==1.4.1
+googlemaps==3.0.2
+gmaps==0.8.4
+ortools
